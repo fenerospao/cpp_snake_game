@@ -1,4 +1,4 @@
-#cpp_snake_game
+# cpp_snake_game
 
 **C++를 이용해 만든 뱀게임**
 
